@@ -2,7 +2,9 @@ const { defineConfig } = require("cypress");
 const cucumber = require('cypress-cucumber-preprocessor').default;
 
 module.exports = defineConfig({
-  e2e: {
+    e2e: {
+    viewportWidth: 1440,
+    viewportHeight: 900,
     setupNodeEvents(on, config) {
       on('file:preprocessor', cucumber())
     },

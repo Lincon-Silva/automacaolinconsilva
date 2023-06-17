@@ -1,0 +1,9 @@
+{
+  "firstName": "José",
+  "lastName": "Lincon Testeéé",
+  "correctEmail": "lincon.silva@acct.global",
+  "incorrectEmail": "lincon.sil@vaggggg.com",
+  "correctPassword": "Lincon@123",
+  "incorrectPassword": "passwordIncorrect@123",
+  "costumerEmail": "lincon_ps@hotmail.com"
+}

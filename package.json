@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linconpsilva/Projeta-Electrolux.git"
+    "url": "git+https://github.com/Lincon-Silva/automacaolinconsilva.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/linconpsilva/Projeta-Electrolux/issues"
+    "url": "https://github.com/Lincon-Silva/automacaolinconsilva/issues"
   },
-  "homepage": "https://github.com/linconpsilva/Projeta-Electrolux#readme",
+  "homepage": "https://github.com/Lincon-Silva/automacaolinconsilva#readme",
   "keywords": [],
   "dependencies": {
     "acorn": "^7.4.1",
